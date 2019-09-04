@@ -1,0 +1,52 @@
+Years,2001,2002
+USA.Actual Forage Land,28721414.7,29370480.2175
+USA.alloc of crop lands to commodities[Maize],39152721.9586,36213237.3234
+USA.alloc of crop lands to commodities[Wheat],21206405.5796,21620315.7762
+USA.alloc of crop lands to commodities[OilCrop],31707151.4923,32763061.5081
+USA.commodity prodn[Maize],297742.853045,
+USA.commodity prodn[Wheat],50377.2086865,
+USA.commodity prodn[OilCrop],91462.8347496,
+USA.net commodity export[Maize],28949.169568,
+USA.net commodity export[Wheat],23305.1788022,
+USA.net commodity export[OilCrop],31079.6745019,
+USA.AP prodn[CowSheepGoat],7747.9147259,
+USA.AP net export[CowSheepGoat],491.404104338,
+,,
+EU 27.Actual Forage Land,24066093.9715,24105992.6839
+EU 27.alloc of crop lands to commodities[Maize],28721801.3876,28499302.9166
+EU 27.alloc of crop lands to commodities[Wheat],25089528.2894,25261722.3057
+EU 27.alloc of crop lands to commodities[OilCrop],13196305.6775,13274751.7165
+EU 27.commodity prodn[Maize],187079.018738,
+EU 27.commodity prodn[Wheat],93444.6509111,
+EU 27.commodity prodn[OilCrop],29735.6872055,
+EU 27.net commodity export[Maize],29534.8827272,
+EU 27.net commodity export[Wheat],10019.0543969,
+EU 27.net commodity export[OilCrop],-20463.4042115,
+EU 27.AP prodn[CowSheepGoat],11464.5553618,
+EU 27.AP net export[CowSheepGoat],-494.240170114,
+,,
+CHIHKG.Actual Forage Land,2146130.25653,2162082.61609
+CHIHKG.alloc of crop lands to commodities[Maize],31028358.344,31407778.6571
+CHIHKG.alloc of crop lands to commodities[Wheat],27199801.0003,27489992.6929
+CHIHKG.alloc of crop lands to commodities[OilCrop],25261405.8532,25854137.7846
+CHIHKG.commodity prodn[Maize],174021.9974,
+CHIHKG.commodity prodn[Wheat],84335.6777487,
+CHIHKG.commodity prodn[OilCrop],37261.4694797,
+CHIHKG.net commodity export[Maize],-2058.78927078,
+CHIHKG.net commodity export[Wheat],20.5414283002,
+CHIHKG.net commodity export[OilCrop],-18888.8232603,
+CHIHKG.AP prodn[CowSheepGoat],14757.0983201,
+CHIHKG.AP net export[CowSheepGoat],-222.079975975,
+,,
+S S AFR.Actual Forage Land,1567572.16787,1583359.9454
+S S AFR.alloc of crop lands to commodities[Maize],69868638.0134,70126751.0139
+S S AFR.alloc of crop lands to commodities[Wheat],2623090.95029,2632712.67219
+S S AFR.alloc of crop lands to commodities[OilCrop],20873539.3354,21117381.5451
+S S AFR.commodity prodn[Maize],37998.7357592,
+S S AFR.commodity prodn[Wheat],19279.9635047,
+S S AFR.commodity prodn[OilCrop],14403.6019462,
+S S AFR.net commodity export[Maize],-3423.71414687,
+S S AFR.net commodity export[Wheat],-9701.19478932,
+S S AFR.net commodity export[OilCrop],-1941.55153194,
+S S AFR.AP prodn[CowSheepGoat],1764.17971481,
+S S AFR.AP net export[CowSheepGoat],-66.5520218573,
